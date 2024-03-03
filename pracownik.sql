@@ -1,0 +1,10 @@
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (1, 'Ortensia', 'Outhwaite', 1242.73, 2);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (2, 'Agosto', 'Fabbri', 1462.92, 4);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (3, 'Conan', 'Tombleson', 1022.98, 4);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (4, 'Jammie', 'Draaisma', 1170.37, 7);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (5, 'Selle', 'Shewsmith', 1149.86, 2);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (6, 'Rasia', 'Fairbank', 1046.65, 3);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (7, 'Abey', 'Sangster', 1148.71, 1);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (8, 'Julia', 'Sivill', 1473.96, 5);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (9, 'Freddi', 'Clowes', 1264.58, 8);
+insert into pracownik (id, imie_pracownika, nazwisko_pracownika, pensja, pomieszczenie_id) values (10, 'Elwood', 'Fairbrace', 1466.24, 2);

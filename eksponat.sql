@@ -1,0 +1,15 @@
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (1, 5, 'Wystawa ogólna #2', 41);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (2, 2, 'Maluchy #2', 23);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (3, 5, 'Specjalne rzadkości #1', 10);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (4, 1, 'Przyjaciele #1', 45);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (5, 7, 'Giganci #2', 10);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (6, 6, 'Królowe królowych', 13);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (7, 5, 'Przepiękni #2', 19);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (8, 4, 'Wystawa ogólna #1', 45);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (9, 1, 'Króle królów', 39);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (10, 4, 'Przepiękni #1', 23);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (11, 4, 'Specjalne rzadkości #2', 44);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (12, 1, 'Maluchy #1', 16);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (13, 5, 'Przyjaciele #2', 34);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (14, 8, 'Przepiękni #3', 18);
+insert into eksponat (id, pomieszczenie_id, nazwa_eksponatu, ilosc_owadow) values (15, 6, 'Giganci #1', 10);
